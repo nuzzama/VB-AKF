@@ -12,3 +12,8 @@ This repository contains the code for the paper:
    file_name = 'your_saved_file_name_here'
 
    Then run result_read.py to generate and visualize the results.
+
+
+**Required Python Modules**:
+   tensorflow==1.12.0
+   gpflow==1.3.0
